@@ -1,4 +1,4 @@
-# CUHK CSE Server - conda setup step-by-step tutorial 保姆级CUHK CSE Server conda 环境部署教程
+# CUHK CSE Server - conda setup 環境部署
 This repo includes the detailed steps to set up **Miniconda3** using your own cse server account.
 
 ## Preparation
