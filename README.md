@@ -52,8 +52,7 @@ export PATH="/path/to/your/miniconda3/bin:$PATH"
 ```
 -------_done_-------
 
-
-
-
+## Reference
+https://kxz18.github.io/2021/01/18/Miniconda/
 
 
